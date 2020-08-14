@@ -1,0 +1,8 @@
+aws/springboot/web/HelloControllerTest.java
+ aws.springboot.web.HelloControllerTest
+aws/springboot/domain/posts/PostsRepositoryTest.java
+ aws.springboot.domain.posts.PostsRepositoryTest
+aws/springboot/web/PostApiControllerTest.java
+ aws.springboot.web.PostApiControllerTest
+aws/springboot/web/dto/HelloResponseDtoTest.java
+ aws.springboot.web.dto.HelloResponseDtoTest
